@@ -8,8 +8,8 @@
  I'm happy with the results and I feel the game has some good structure if I ever wanted to complete it.
  Other than coding I also placed a challenge for myself to do all the graphics/art too.
 
- You can download the APK file here.
+ You can download the APK file [here](https://github.com/Stathis92/Cloudy/blob/main/Cloudy.arm64-v8a.apk).
 
  OR
 
- You can play the webGL version here. (In this version there is no sound)
+ You can play the webGL version [here](https://stathis92.github.io/Cloudy/). (In this version there is no sound)
